@@ -465,7 +465,7 @@
                                                 }),
                                                 (0, l.jsx)(i.E.div, {
                                                     style: { opacity: r },
-                                                    children: (0, l.jsx)(d.default, { src: "https://res.cloudinary.com/duv0g402y/image/upload/f_auto,q_auto/v1/foundation/odolg4znooffbsmsxodn", alt: "Bera portal", width: 213, height: 471 }),
+                                                    children: (0, l.jsx)(d.default, { src: "https://ik.imagekit.io/7ksxy0uxk/e-commerce/kiro.png", alt: "Bera portal", width: 213, height: 471 }),
                                                 }),
                                                 (0, l.jsx)(i.E.div, {
                                                     style: { opacity: n },
