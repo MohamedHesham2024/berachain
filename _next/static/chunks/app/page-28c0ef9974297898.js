@@ -453,7 +453,7 @@
                                             className: "mb-5 hidden flex-grow-0 items-end gap-4 px-16 md:flex max-w-[1200px] -mt-[200px]",
                                             children: [
                                                 (0, l.jsx)("div", {
-                                                    children: (0, l.jsx)(d.default, { src: "https://res.cloudinary.com/duv0g402y/image/upload/f_auto,q_auto/v1/foundation/afuzrct3llv7vdtgnsxx", alt: "Bera portal", width: 248, height: 253 }),
+                                                    children: (0, l.jsx)(d.default, { src: "/image/1.jpg", alt: "Bera portal", width: 248, height: 253 }),
                                                 }),
                                                 (0, l.jsx)(i.E.div, {
                                                     style: { opacity: a },
