@@ -616,7 +616,7 @@
                                     style: { opacity: r },
                                     className:
                                         "relative z-10 text-center font-mikado text-2xl font-bold text-white [letter-spacing:-0.025em] [text-shadow:_-0.4px_-0.4px_0_#000,_0.4px_-0.4px_0_#000,_-0.4px_0.4px_0_#000,_0.4px_0.4px_0_#000,_0_2px_2px_rgba(0,0,0,0.3)] md:text-4xl xl:text-5xl",
-                                    children: ["An EVM-identical L1 aligning security and liquidity powered by", (0, l.jsx)("span", { className: "text-[#F0D8A7]", children: " Proof Of Liquidity" })],
+                                    children: ["Celebrate friendships and create lasting connections that can be cherished for years to come. Perfect for preserving the", (0, l.jsx)("span", { className: "text-[#F0D8A7]", children: " special moments of your childhood" })],
                                 }),
                             ],
                         }),
@@ -779,12 +779,18 @@
                                     children: [
                                         (0, l.jsx)(o.P.logo, { className: "absolute h-24 w-24 self-center text-white [filter:drop-shadow(0_2px_2px_rgba(0,0,0,0.6))]" }),
                                         (0, l.jsx)(o.P.logo, {
-                                            className: "absolute h-24 w-24 self-center text-white [filter:drop-shadow(0.5px_0.5px_0_#000)_drop-shadow(0.5px_-0.5px_0_#000)_drop-shadow(-0.5px_0.5px_0_#000)_drop-shadow(-0.5px_-0.5px_0_#000)]",
+                                            className: "mb-8 absolute h-24 w-24 self-center text-white [filter:drop-shadow(0.5px_0.5px_0_#000)_drop-shadow(0.5px_-0.5px_0_#000)_drop-shadow(-0.5px_0.5px_0_#000)_drop-shadow(-0.5px_-0.5px_0_#000)]",
                                         }),
                                         (0, l.jsx)("h1", {
                                             className:
-                                                "font-mikado text-[75px] xs:text-[85px] sm:text-[110px] mt-16 md:mt-12 lg:mt-8 xl:mt-4 font-bold text-white [letter-spacing:-0.025em] [text-shadow:_-0.6px_-0.6px_0_#000,_0.6px_-0.6px_0_#000,_-0.6px_0.6px_0_#000,_0.6px_0.6px_0_#000,_0_2px_2px_rgba(0,0,0,0.6)] md:text-[140px] lg:text-[150px] xl:text-[200px]",
-                                            children: "Berachain",
+                                                "font-mikado text-[75px] sm:text-[85px] md:text-[100px] mt-16 md:mt-12 lg:mt-8 xl:mt-4 font-bold text-white [letter-spacing:-0.025em] [text-shadow:_-0.6px_-0.6px_0_#000,_0.6px_-0.6px_0_#000,_-0.6px_0.6px_0_#000,_0.6px_0.6px_0_#000,_0_2px_2px_rgba(0,0,0,0.6)] ",
+                                            children: (0, l.jsxs)(l.Fragment, {
+                                                    children: [
+                                                      "Friendships That Last,",
+                                                      (0, l.jsx)("br", {}),
+                                                      "Memories That Shine"
+                                                    ]
+                                                  })
                                         }),
                                     ],
                                 }),
@@ -792,7 +798,7 @@
                                 className: "absolute bottom-[80px] xs:bottom-[100px] sm:bottom-[140px] md:bottom-[70px] z-20 flex w-full animate-float items-center justify-center gap-2 p-6 text-center lg:bottom-[80px] xl:bottom-[140px]",
                                 style: { "--float-rotate": "0deg", "--float-duration": "2s" },
                                 children: [
-                                    (0, l.jsx)("h2", { className: "text-center font-mikado text-6xl font-bold text-[#2F4D24] lg:text-6xl xl:text-7xl", children: "Up Only" }),
+                                    (0, l.jsx)("h2", { className: "text-center font-mikado text-6xl font-bold text-[#2F4D24] lg:text-6xl xl:text-7xl", children: "Scroll down" }),
                                     (0, l.jsx)(o.P.arrowDown, { strokeWidth: "3", className: "h-16 w-16 rotate-180 text-[#2F4D24] md:h-16 md:w-16 lg:h-20 lg:w-20 xl:h-24 xl:w-24" }),
                                 ],
                             }),
@@ -856,7 +862,7 @@
                                 (0, l.jsx)("div", {
                                     className:
                                         "text-centerfont-mikado w-fit self-center whitespace-nowrap rounded-xl bg-white bg-opacity-10 p-[6px] font-bold text-white  backdrop-blur-2xl [letter-spacing:-0.025em] [text-shadow:_-0.25px_-0.25px_0_#000,_0.25px_-0.25px_0_#000,_-0.25px_0.25px_0_#000,_0.25px_0.25px_0_#000,_0_1px_1px_rgba(0,0,0,0.3)] xs:text-[3vw] sm:text-sm md:text-xl xl:p-2",
-                                    children: "Solve stake centralization",
+                                    children: "Strengthen Friendships and Connections",
                                 }),
                                 (0, l.jsx)(d.default, { src: "https://res.cloudinary.com/duv0g402y/image/upload/f_auto,q_auto/v1/newFoundation/ORB_epdyas", alt: "honey jar", width: 125, height: 125, className: "mx-auto w-[12%]" }),
                             ],
@@ -871,7 +877,7 @@
                                         (0, l.jsxs)("div", {
                                             className:
                                                 "w-fit self-center whitespace-nowrap rounded-xl bg-white bg-opacity-10 p-[6px] text-center font-mikado font-bold text-white backdrop-blur-2xl [letter-spacing:-0.025em] [text-shadow:_-0.25px_-0.25px_0_#000,_0.25px_-0.25px_0_#000,_-0.25px_0.25px_0_#000,_0.25px_0.25px_0_#000,_0_1px_1px_rgba(0,0,0,0.3)] xs:text-[3vw] sm:text-sm md:ml-0 md:text-xl xl:p-2",
-                                            children: ["Systematically ", (0, l.jsx)("br", { className: "block sm:hidden" }), " build liquidity"],
+                                            children: ["Build Social Skills ", (0, l.jsx)("br", { className: "block sm:hidden" }), " and Confidence"],
                                         }),
                                         (0, l.jsx)(d.default, { src: "https://res.cloudinary.com/duv0g402y/image/upload/f_auto,q_auto/v1/newFoundation/ORB_epdyas", alt: "honey jar", width: 125, height: 125, className: "mx-auto w-[40%]" }),
                                     ],
@@ -884,7 +890,7 @@
                                         (0, l.jsxs)("div", {
                                             className:
                                                 "w-fit self-center whitespace-nowrap rounded-xl bg-white bg-opacity-10 p-[6px] text-center font-mikado font-bold text-white backdrop-blur-2xl [letter-spacing:-0.025em] [text-shadow:_-0.25px_-0.25px_0_#000,_0.25px_-0.25px_0_#000,_-0.25px_0.25px_0_#000,_0.25px_0.25px_0_#000,_0_1px_1px_rgba(0,0,0,0.3)] xs:text-[3vw] sm:text-sm md:ml-0 md:text-xl xl:p-2",
-                                            children: ["Align protocols ", (0, l.jsx)("br", { className: "block sm:hidden" }), " and validators"],
+                                            children: ["Create a Timeless ", (0, l.jsx)("br", { className: "block sm:hidden" }), " Keepsake"],
                                         }),
                                         (0, l.jsx)(d.default, { src: "https://res.cloudinary.com/duv0g402y/image/upload/f_auto,q_auto/v1/newFoundation/ORB_epdyas", alt: "honey jar", width: 125, height: 125, className: "mx-auto w-[40%]" }),
                                     ],
@@ -895,7 +901,16 @@
                             className:
                                 "w-full max-w-[940px] animate-float px-8 text-center font-mikado text-xl font-bold text-white [letter-spacing:-0.025em] [text-shadow:_-0.4px_-0.4px_0_#000,_0.4px_-0.4px_0_#000,_-0.4px_0.4px_0_#000,_0.4px_0.4px_0_#000,_0_2px_2px_rgba(0,0,0,0.3)] md:text-3xl lg:px-0",
                             style: { opacity: a, "--float-rotate": "0deg", "--float-duration": "5s" },
-                            children: [(0, l.jsx)("span", { className: "text-[#F0D8A7]", children: "Proof of Liquidity" }), " creates a cooperative economy that rewards working capital by aligning incentives across the network"],
+                            children: [(0, l.jsx)("span", { className: "text-[#F0D8A7]", children: "Ready to start capturing memories" }), " and celebrating friendships? Get your very own friends book today!",(0, l.jsx)("div", {
+                                className: "mt-6 text-center",
+                                children: (0, l.jsx)("a", {
+                                    href: "https://github.com/berachain/beacon-kit",
+                                    target: "_blank",
+                                  className:
+                                  "text-xl flex cursor-pointer items-center gap-1 m-auto text-center font-mikado font-bold text-white [letter-spacing:-0.025em] [text-shadow:_-0.25px_-0.25px_0_#000,_0.25px_-0.25px_0_#000,_-0.25px_0.25px_0_#000,_0.25px_0.25px_0_#000,_0_1px_1px_rgba(0,0,0,0.3)] xl:text-xl",
+                                  children: "send us an email"
+                                })
+                              })],
                         }),
                         (0, l.jsx)(i.E.div, {
                             style: { x: o },
