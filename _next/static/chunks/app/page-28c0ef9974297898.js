@@ -774,16 +774,16 @@
                             }),
                             e &&
                                 (0, l.jsxs)(i.E.div, {
-                                    className: "fixed top-[40%] flex translate-y-[-50%] flex-col text-center",
+                                    className: "fixed top-[30%] flex translate-y-[-50%] flex-col text-center",
                                     style: { opacity: r, scale: n },
                                     children: [
-                                        (0, l.jsx)(o.P.logo, { className: "absolute h-24 w-24 self-center text-white [filter:drop-shadow(0_2px_2px_rgba(0,0,0,0.6))]" }),
+                                        (0, l.jsx)(o.P.logo, { className: "relative  h-24 w-24 self-center text-white [filter:drop-shadow(0_2px_2px_rgba(0,0,0,0.6))]" }),
                                         (0, l.jsx)(o.P.logo, {
-                                            className: "mb-8 absolute h-24 w-24 self-center text-white [filter:drop-shadow(0.5px_0.5px_0_#000)_drop-shadow(0.5px_-0.5px_0_#000)_drop-shadow(-0.5px_0.5px_0_#000)_drop-shadow(-0.5px_-0.5px_0_#000)]",
+                                            className: "mb-12 absolute h-24 w-24 self-center text-white [filter:drop-shadow(0.5px_0.5px_0_#000)_drop-shadow(0.5px_-0.5px_0_#000)_drop-shadow(-0.5px_0.5px_0_#000)_drop-shadow(-0.5px_-0.5px_0_#000)]",
                                         }),
                                         (0, l.jsx)("h1", {
                                             className:
-                                                "font-mikado text-[75px] sm:text-[85px] md:text-[100px] mt-16 md:mt-12 lg:mt-8 xl:mt-4 font-bold text-white [letter-spacing:-0.025em] [text-shadow:_-0.6px_-0.6px_0_#000,_0.6px_-0.6px_0_#000,_-0.6px_0.6px_0_#000,_0.6px_0.6px_0_#000,_0_2px_2px_rgba(0,0,0,0.6)] ",
+                                                "relative font-mikado text-[75px] sm:text-[85px] md:text-[110px]  font-bold text-white [letter-spacing:-0.025em] [text-shadow:_-0.6px_-0.6px_0_#000,_0.6px_-0.6px_0_#000,_-0.6px_0.6px_0_#000,_0.6px_0.6px_0_#000,_0_2px_2px_rgba(0,0,0,0.6)] ",
                                             children: (0, l.jsxs)(l.Fragment, {
                                                     children: [
                                                       "Friendships That Last,",
@@ -899,19 +899,30 @@
                         }),
                         (0, l.jsxs)(i.E.div, {
                             className:
-                                "w-full max-w-[940px] animate-float px-8 text-center font-mikado text-xl font-bold text-white [letter-spacing:-0.025em] [text-shadow:_-0.4px_-0.4px_0_#000,_0.4px_-0.4px_0_#000,_-0.4px_0.4px_0_#000,_0.4px_0.4px_0_#000,_0_2px_2px_rgba(0,0,0,0.3)] md:text-3xl lg:px-0",
-                            style: { opacity: a, "--float-rotate": "0deg", "--float-duration": "5s" },
-                            children: [(0, l.jsx)("span", { className: "text-[#F0D8A7]", children: "Ready to start capturing memories" }), " and celebrating friendships? Get your very own friends book today!",(0, l.jsx)("div", {
-                                className: "mt-6 text-center",
-                                children: (0, l.jsx)("a", {
-                                    href: "https://github.com/berachain/beacon-kit",
-                                    target: "_blank",
-                                  className:
-                                  "text-xl flex cursor-pointer items-center gap-1 m-auto text-center font-mikado font-bold text-white [letter-spacing:-0.025em] [text-shadow:_-0.25px_-0.25px_0_#000,_0.25px_-0.25px_0_#000,_-0.25px_0.25px_0_#000,_0.25px_0.25px_0_#000,_0_1px_1px_rgba(0,0,0,0.3)] xl:text-xl",
-                                  children: "send us an email"
-                                })
-                              })],
-                        }),
+                              "w-full max-w-[940px] animate-float px-8 text-center font-mikado text-xl font-bold text-white [letter-spacing:-0.025em] [text-shadow:_-0.4px_-0.4px_0_#000,_0.4px_-0.4px_0_#000,_-0.4px_0.4px_0_#000,_0.4px_0.4px_0_#000,_0_2px_2px_rgba(0,0,0,0.3)] md:text-3xl lg:px-0",
+                            style: {
+                              opacity: a,
+                              "--float-rotate": "0deg",
+                              "--float-duration": "5s"
+                            },
+                            children: [
+                              (0, l.jsx)("span", {
+                                className: "text-[#F0D8A7]",
+                                children: "Ready to start capturing memories"
+                              }),
+                              " and celebrating friendships? Get your very own friends book today!"
+                            ]
+                          }),
+                        (0, l.jsx)("div", {
+                            className: "mt-10 text-center",
+                            children: (0, l.jsx)("a", {
+                              href: "https://github.com/berachain/beacon-kit",
+                              target: "_blank",
+                              className:
+                                "text-xl flex cursor-pointer items-center gap-1 m-auto text-center font-mikado font-bold text-white [letter-spacing:-0.025em] [text-shadow:_-0.25px_-0.25px_0_#000,_0.25px_-0.25px_0_#000,_-0.25px_0.25px_0_#000,_0.25px_0.25px_0_#000,_0_1px_1px_rgba(0,0,0,0.3)] xl:text-xl",
+                              children: "send us an email"
+                            })
+                          }),
                         (0, l.jsx)(i.E.div, {
                             style: { x: o },
                             className: "absolute right-0 top-28 hidden md:block",
