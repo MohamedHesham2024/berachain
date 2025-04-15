@@ -775,13 +775,10 @@
                             e &&
                                 (0, l.jsxs)(i.E.div, {
                                     id:"friendShipP",
-                                    className: "fixed top-[30%] flex translate-y-[-50%] flex-col text-center",
+                                    className: "fixed top-[40%] flex translate-y-[-50%] flex-col text-center",
                                     style: { opacity: r, scale: n },
                                     children: [
-                                        (0, l.jsx)(o.P.logo, { className: "relative  h-24 w-24 self-center text-white [filter:drop-shadow(0_2px_2px_rgba(0,0,0,0.6))]" }),
-                                        (0, l.jsx)(o.P.logo, {
-                                            className: "mb-12 absolute h-24 w-24 self-center text-white [filter:drop-shadow(0.5px_0.5px_0_#000)_drop-shadow(0.5px_-0.5px_0_#000)_drop-shadow(-0.5px_0.5px_0_#000)_drop-shadow(-0.5px_-0.5px_0_#000)]",
-                                        }),
+                                        
                                         (0, l.jsx)("h1", {
                                             id:'friendShip',
                                             className:
