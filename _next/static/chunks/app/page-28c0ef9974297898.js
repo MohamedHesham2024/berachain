@@ -774,6 +774,7 @@
                             }),
                             e &&
                                 (0, l.jsxs)(i.E.div, {
+                                    id:"friendShipP",
                                     className: "fixed top-[30%] flex translate-y-[-50%] flex-col text-center",
                                     style: { opacity: r, scale: n },
                                     children: [
@@ -782,6 +783,7 @@
                                             className: "mb-12 absolute h-24 w-24 self-center text-white [filter:drop-shadow(0.5px_0.5px_0_#000)_drop-shadow(0.5px_-0.5px_0_#000)_drop-shadow(-0.5px_0.5px_0_#000)_drop-shadow(-0.5px_-0.5px_0_#000)]",
                                         }),
                                         (0, l.jsx)("h1", {
+                                            id:'friendShip',
                                             className:
                                                 "relative font-mikado text-[75px] sm:text-[85px] md:text-[110px]  font-bold text-white [letter-spacing:-0.025em] [text-shadow:_-0.6px_-0.6px_0_#000,_0.6px_-0.6px_0_#000,_-0.6px_0.6px_0_#000,_0.6px_0.6px_0_#000,_0_2px_2px_rgba(0,0,0,0.6)] ",
                                             children: (0, l.jsxs)(l.Fragment, {
@@ -919,7 +921,7 @@
                               href: "https://github.com/berachain/beacon-kit",
                               target: "_blank",
                               className:
-                                "text-xl flex cursor-pointer items-center gap-1 m-auto text-center font-mikado font-bold text-white [letter-spacing:-0.025em] [text-shadow:_-0.25px_-0.25px_0_#000,_0.25px_-0.25px_0_#000,_-0.25px_0.25px_0_#000,_0.25px_0.25px_0_#000,_0_1px_1px_rgba(0,0,0,0.3)] xl:text-xl",
+                                "text-5xl flex cursor-pointer items-center gap-1 m-auto text-center font-mikado font-bold text-white [letter-spacing:-0.025em] [text-shadow:_-0.25px_-0.25px_0_#000,_0.25px_-0.25px_0_#000,_-0.25px_0.25px_0_#000,_0.25px_0.25px_0_#000,_0_1px_1px_rgba(0,0,0,0.3)] xl:text-xl",
                               children: "send us an email"
                             })
                           }),
