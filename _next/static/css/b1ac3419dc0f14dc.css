@@ -447,7 +447,7 @@ ascent-override:94.90%;
 descent-override:29.66%;
 line-gap-override:0.00%;
 size-adjust:104.53%}.__className_c48b40{font-family:__DM_Sans_c48b40,__DM_Sans_Fallback_c48b40;
-font-style:normal}.__variable_c48b40{--font-sans:"__DM_Sans_c48b40","__DM_Sans_Fallback_c48b40"}#sendUsCss {margin-top: 200px; background-color: #F9BA80;color: white;border: none;padding: 15px 25px;border-radius: 15px;cursor: pointer;font-weight: bold;}
+font-style:normal}.__variable_c48b40{--font-sans:"__DM_Sans_c48b40","__DM_Sans_Fallback_c48b40"}#sendUsCss {margin-top: 150px; background-color: #F9BA80;color: white;border: none;padding: 15px 25px;border-radius: 15px;cursor: pointer;font-weight: bold;}
 /* من 370px إلى 425px */
 @media (min-width: 370px) and (max-width: 425px) {
     #friendShip {
