@@ -778,7 +778,7 @@
                                     className: "fixed top-[40%] flex translate-y-[-50%] flex-col text-center",
                                     style: { opacity: r, scale: n },
                                     children: [
-                                        (0, l.jsx)(o.P.logo, { className: "hidden relative  h-24 w-24 self-center text-white [filter:drop-shadow(0_2px_2px_rgba(0,0,0,0.6))]" }),
+                                        (0, l.jsx)(o.P.logo, { className: "hidden  h-24 w-24 self-center text-white [filter:drop-shadow(0_2px_2px_rgba(0,0,0,0.6))]" }),
                                         (0, l.jsx)(o.P.logo, {
                                             className: "hidden mb-12 absolute h-24 w-24 self-center text-white [filter:drop-shadow(0.5px_0.5px_0_#000)_drop-shadow(0.5px_-0.5px_0_#000)_drop-shadow(-0.5px_0.5px_0_#000)_drop-shadow(-0.5px_-0.5px_0_#000)]",
                                         }),
@@ -886,7 +886,7 @@
                                 }),
                                 (0, l.jsx)(d.default, { src: "https://res.cloudinary.com/duv0g402y/image/upload/f_auto,q_auto/v1/newFoundation/air_bender_bera_zvzjny", alt: "Bera kongfu", width: 450, height: 450, className: "w-[40%]" }),
                                 (0, l.jsxs)("div", {
-                                    className: "-mt-12 flex w-[30%] animate-float flex-col gap-2 sm:mt-0 md:gap-8",
+                                    className: "-mt-12 flex w-[40%] animate-float flex-col gap-2 sm:mt-0 md:gap-8",
                                     style: { "--float-rotate": "0deg", "--float-duration": "3s" },
                                     children: [
                                         (0, l.jsxs)("div", {
