@@ -449,6 +449,17 @@ line-gap-override:0.00%;
 size-adjust:104.53%}.__className_c48b40{font-family:__DM_Sans_c48b40,__DM_Sans_Fallback_c48b40;
 font-style:normal}.__variable_c48b40{--font-sans:"__DM_Sans_c48b40","__DM_Sans_Fallback_c48b40"}#sendUsCss {margin-top: 50px; background-color: #F9BA80;color: white;border: none;padding: 15px 25px;border-radius: 15px;cursor: pointer;font-weight: bold;}
 /* من 370px إلى 425px */
+#scrollDown{
+  bottom: 5px;
+  text-shadow:
+    -0.4px -0.4px 0 #000,
+     0.4px -0.4px 0 #000,
+    -0.4px  0.4px 0 #000,
+     0.4px  0.4px 0 #000,
+     0    2px   2px rgba(0, 0, 0, 0.3);
+  letter-spacing:-0.025em;
+}
+
 @media (min-width: 370px) and (max-width: 425px) {
     #friendShip {
       font-size: 40px;
@@ -457,15 +468,21 @@ font-style:normal}.__variable_c48b40{--font-sans:"__DM_Sans_c48b40","__DM_Sans_F
       margin-top: 0px;
       padding-top: 0px;
     }
+    #scrollDown{
+      bottom: 5px;
+    }
   }
   
   /* أقل من 370px */
-  @media (max-width: 369px) {
+  @media (max-width: 369px) {scrollDown
     #friendShip {
       font-size: 30px;
     }
     #friendShipP {
       top: 50%;
+    }
+    #scrollDown{
+      bottom: 5px;
     }
   }
   
